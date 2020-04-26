@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+
+<script>
+    function clickbutton() {
+    var elem = document.getElementById('Mark as Done');
+    elem.click();
+    }
+    clickbutton()
+</script>
+<body>
+    
+</body>
